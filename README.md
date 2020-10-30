@@ -1,2 +1,6 @@
 # hello-world
-first repository 
+
+Hello World,
+
+I am studying computer science and interested in machine learning among other things.
+
